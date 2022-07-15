@@ -78,4 +78,3 @@ int main() {
     BMfunc(p, table, lng);
     return 0;
 }
-
