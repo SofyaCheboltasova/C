@@ -125,6 +125,7 @@ int main() {
         return 0;
     }
 
+    
     int size = i;
     if (size <= 0) {
         printf("syntax error");
